@@ -141,3 +141,5 @@ def press_key(event):
 win.bind("<Key>", press_key)  # Вызываем привязку к клавиатуре и функцию press_key
 
 win.mainloop()
+
+"""Конец программы"""
